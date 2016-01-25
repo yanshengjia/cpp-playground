@@ -1,2 +1,2 @@
 # cplusplus-htp-exercise-answers
-C++大学教程(第7版) 练习题解
+C++ How to Program(8th) exercise answers
