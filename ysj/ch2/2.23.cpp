@@ -38,7 +38,6 @@ int main()
 	cout << "The largest number is " << largest << endl;
 	cout << "The smallest number is " << smallest << endl;
 
-	system("pause");
 	return 0;
 
 }

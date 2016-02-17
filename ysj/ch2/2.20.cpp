@@ -11,7 +11,6 @@ int main()
 	cout << "The circle's circumference is " << 2 * 3.14159*radius << endl;
 	cout << "The circle's area is " << 3.14159*radius*radius << endl;
 
-	system("pause");
 	return 0;
 
 }

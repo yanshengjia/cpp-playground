@@ -15,7 +15,5 @@ int main()
 
 	cout << a << "   " << b << "   " << c << "   " << d << "   " << e;
 
-	system("pause");
 	return 0;
-
 }

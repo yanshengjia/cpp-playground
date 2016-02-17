@@ -14,7 +14,6 @@ int main()
 	else
 		cout << "The first number is not a multiple of the second." << endl;
 
-	system("pause");
 	return 0;
 
 }

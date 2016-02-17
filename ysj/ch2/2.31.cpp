@@ -42,7 +42,5 @@ int main()
 
 	cout << "当你参加共乘汽车(一辆车做4人，费用平摊，其他条件不变)的话你每天可以节省" << 0.75 *Consumption << "元" << endl;
 
-	system("pause");
 	return 0;
-
 }

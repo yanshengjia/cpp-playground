@@ -35,7 +35,6 @@ int main()
 	cout << "Smallest is " << smallest<<endl;
 	cout << "Largest is " << largest << endl;
 
-	system("pause");
 	return 0;
 
 }

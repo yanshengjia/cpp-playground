@@ -7,8 +7,5 @@ int main()
 	cout << "2 ";
 	cout << "3 ";
 	cout << "4 ";
-	system("pause");
 	return 0;
-
-
 }

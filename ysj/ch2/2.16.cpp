@@ -16,6 +16,5 @@ int main()
 	cout << difference << endl;
 	cout << quotient<< endl;
 
-	system("pause");
 	return 0;
 }

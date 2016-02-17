@@ -8,7 +8,5 @@ int main()
 	cin >> a;
 	cout << static_cast<int>(a);
 
-	system("pause");
 	return 0;
-
 }
