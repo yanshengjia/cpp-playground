@@ -18,5 +18,5 @@ int main()
 	cout << "Overweight:  between 25 and 29.9" << endl;
 	cout << "Obese:       30 or greater" << endl;
 
-	system("pause");
+	return 0;
 }
